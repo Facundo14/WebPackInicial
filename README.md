@@ -9,6 +9,6 @@ npm install
 ```
 
 ```
-npm build || npm build:dev
+npm run build || npm run build:dev
 
 ```
